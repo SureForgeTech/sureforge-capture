@@ -361,9 +361,7 @@ For public distribution, use a `Developer ID Application` certificate plus notar
 
 ## Contribution Policy
 
-SureForge Capture is not currently accepting outside code contributions or pull requests.
-
-Bug reports and focused feature requests are still welcome through [GitHub Issues](https://github.com/SureForgeTech/sureforge-capture/issues/new). See [CONTRIBUTING.md](CONTRIBUTING.md) for the current policy.
+Bug reports and focused feature requests are welcome through [GitHub Issues](https://github.com/SureForgeTech/sureforge-capture/issues/new). Pull requests are welcome, and every commit must be signed off with `git commit -s`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution and review process.
 
 ## License
 
